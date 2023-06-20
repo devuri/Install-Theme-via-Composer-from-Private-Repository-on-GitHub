@@ -23,7 +23,7 @@ Follow the steps below to set up your `auth.json` file and install the private t
 - Click "Generate token" at the bottom of the page.
 - GitHub will generate a personal access token. Keep this token handy as you'll need it in the next step.
 
-> If you use the new Fine-grained personal access tokens, use Repository access, and and choose Contents: read only for Permissions
+> If you use the new Fine-grained personal access tokens, use Repository access, and choose Contents: read only for Permissions
 
 ### 2. Create or Update the `auth.json` File
 
